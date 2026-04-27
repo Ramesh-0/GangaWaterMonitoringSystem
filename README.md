@@ -120,7 +120,6 @@ Open the local preview to see the live dashboard.
 ## 🛣️ Roadmap
 
 - [ ] Connect to **real IoT node feeds** (MQTT / WebSocket ingestion)
-- [ ] **Lovable Cloud** backend — persist sensor history, user auth for agencies
 - [ ] **Interactive Leaflet/Mapbox** map replacing the SVG schematic
 - [ ] **Push / SMS notifications** for critical events
 - [ ] **Citizen reporting** — let locals flag pollution incidents with photos
